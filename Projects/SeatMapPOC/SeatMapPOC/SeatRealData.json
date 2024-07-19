@@ -1,0 +1,1991 @@
+[
+    {
+        "seats": []
+    },
+    {
+        "seats": [
+            {
+                "code": "1A",
+                "seatNo": "1A",
+                "dsc": "1A",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 1500,
+                "priceBracket": 2
+            },
+            {
+                "code": "1B",
+                "seatNo": "1B",
+                "dsc": "1B",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "1C",
+                "seatNo": "1C",
+                "dsc": "1C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 1500,
+                "priceBracket": 2
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "1D",
+                "seatNo": "1D",
+                "dsc": "1D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 1500,
+                "priceBracket": 2
+            },
+            {
+                "code": "1E",
+                "seatNo": "1E",
+                "dsc": "1E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "1F",
+                "seatNo": "1F",
+                "dsc": "1F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 1500,
+                "priceBracket": 2
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "2A",
+                "seatNo": "2A",
+                "dsc": "2A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 400,
+                "priceBracket": 1
+            },
+            {
+                "code": "2B",
+                "seatNo": "2B",
+                "dsc": "2B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 400,
+                "priceBracket": 1
+            },
+            {
+                "code": "2C",
+                "seatNo": "2C",
+                "dsc": "2C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 400,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "2D",
+                "seatNo": "2D",
+                "dsc": "2D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 400,
+                "priceBracket": 1
+            },
+            {
+                "code": "2E",
+                "seatNo": "2E",
+                "dsc": "2E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 400,
+                "priceBracket": 1
+            },
+            {
+                "code": "2F",
+                "seatNo": "2F",
+                "dsc": "2F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 400,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "3A",
+                "seatNo": "3A",
+                "dsc": "3A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 400,
+                "priceBracket": 1
+            },
+            {
+                "code": "3B",
+                "seatNo": "3B",
+                "dsc": "3B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 400,
+                "priceBracket": 1
+            },
+            {
+                "code": "3C",
+                "seatNo": "3C",
+                "dsc": "3C",
+                "isBooked": true,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 400,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "3D",
+                "seatNo": "3D",
+                "dsc": "3D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 400,
+                "priceBracket": 1
+            },
+            {
+                "code": "3E",
+                "seatNo": "3E",
+                "dsc": "3E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 400,
+                "priceBracket": 1
+            },
+            {
+                "code": "3F",
+                "seatNo": "3F",
+                "dsc": "3F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 400,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "4A",
+                "seatNo": "4A",
+                "dsc": "4A",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "4B",
+                "seatNo": "4B",
+                "dsc": "4B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "4C",
+                "seatNo": "4C",
+                "dsc": "4C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "4D",
+                "seatNo": "4D",
+                "dsc": "4D",
+                "isBooked": true,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "4E",
+                "seatNo": "4E",
+                "dsc": "4E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "4F",
+                "seatNo": "4F",
+                "dsc": "4F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "5A",
+                "seatNo": "5A",
+                "dsc": "5A",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "5B",
+                "seatNo": "5B",
+                "dsc": "5B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "5C",
+                "seatNo": "5C",
+                "dsc": "5C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "5D",
+                "seatNo": "5D",
+                "dsc": "5D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "5E",
+                "seatNo": "5E",
+                "dsc": "5E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "5F",
+                "seatNo": "5F",
+                "dsc": "5F",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "6A",
+                "seatNo": "6A",
+                "dsc": "6A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "6B",
+                "seatNo": "6B",
+                "dsc": "6B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "6C",
+                "seatNo": "6C",
+                "dsc": "6C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "6D",
+                "seatNo": "6D",
+                "dsc": "6D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "6E",
+                "seatNo": "6E",
+                "dsc": "6E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "6F",
+                "seatNo": "6F",
+                "dsc": "6F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "7A",
+                "seatNo": "7A",
+                "dsc": "7A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "7B",
+                "seatNo": "7B",
+                "dsc": "7B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "7C",
+                "seatNo": "7C",
+                "dsc": "7C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "7D",
+                "seatNo": "7D",
+                "dsc": "7D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "7E",
+                "seatNo": "7E",
+                "dsc": "7E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "7F",
+                "seatNo": "7F",
+                "dsc": "7F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "8A",
+                "seatNo": "8A",
+                "dsc": "8A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "8B",
+                "seatNo": "8B",
+                "dsc": "8B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "8C",
+                "seatNo": "8C",
+                "dsc": "8C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "8D",
+                "seatNo": "8D",
+                "dsc": "8D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "8E",
+                "seatNo": "8E",
+                "dsc": "8E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "8F",
+                "seatNo": "8F",
+                "dsc": "8F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "9A",
+                "seatNo": "9A",
+                "dsc": "9A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "9B",
+                "seatNo": "9B",
+                "dsc": "9B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "9C",
+                "seatNo": "9C",
+                "dsc": "9C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "9D",
+                "seatNo": "9D",
+                "dsc": "9D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "9E",
+                "seatNo": "9E",
+                "dsc": "9E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "9F",
+                "seatNo": "9F",
+                "dsc": "9F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "10A",
+                "seatNo": "10A",
+                "dsc": "10A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "10B",
+                "seatNo": "10B",
+                "dsc": "10B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "10C",
+                "seatNo": "10C",
+                "dsc": "10C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "10D",
+                "seatNo": "10D",
+                "dsc": "10D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "10E",
+                "seatNo": "10E",
+                "dsc": "10E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 350,
+                "priceBracket": 1
+            },
+            {
+                "code": "10F",
+                "seatNo": "10F",
+                "dsc": "10F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 350,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "11A",
+                "seatNo": "11A",
+                "dsc": "11A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "11B",
+                "seatNo": "11B",
+                "dsc": "11B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "11C",
+                "seatNo": "11C",
+                "dsc": "11C",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "11D",
+                "seatNo": "11D",
+                "dsc": "11D",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "11E",
+                "seatNo": "11E",
+                "dsc": "11E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "11F",
+                "seatNo": "11F",
+                "dsc": "11F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "12A",
+                "seatNo": "12A",
+                "dsc": "12A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "12B",
+                "seatNo": "12B",
+                "dsc": "12B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "12C",
+                "seatNo": "12C",
+                "dsc": "12C",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "12D",
+                "seatNo": "12D",
+                "dsc": "12D",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "12E",
+                "seatNo": "12E",
+                "dsc": "12E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "12F",
+                "seatNo": "12F",
+                "dsc": "12F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "13A",
+                "seatNo": "13A",
+                "dsc": "13A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "13B",
+                "seatNo": "13B",
+                "dsc": "13B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "13C",
+                "seatNo": "13C",
+                "dsc": "13C",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "13D",
+                "seatNo": "13D",
+                "dsc": "13D",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "13E",
+                "seatNo": "13E",
+                "dsc": "13E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            },
+            {
+                "code": "13F",
+                "seatNo": "13F",
+                "dsc": "13F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 1200,
+                "priceBracket": 2
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "14A",
+                "seatNo": "14A",
+                "dsc": "14A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "14B",
+                "seatNo": "14B",
+                "dsc": "14B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "14C",
+                "seatNo": "14C",
+                "dsc": "14C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "14D",
+                "seatNo": "14D",
+                "dsc": "14D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "14E",
+                "seatNo": "14E",
+                "dsc": "14E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "14F",
+                "seatNo": "14F",
+                "dsc": "14F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "15A",
+                "seatNo": "15A",
+                "dsc": "15A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "15B",
+                "seatNo": "15B",
+                "dsc": "15B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "15C",
+                "seatNo": "15C",
+                "dsc": "15C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "15D",
+                "seatNo": "15D",
+                "dsc": "15D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "15E",
+                "seatNo": "15E",
+                "dsc": "15E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "15F",
+                "seatNo": "15F",
+                "dsc": "15F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "16A",
+                "seatNo": "16A",
+                "dsc": "16A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "16B",
+                "seatNo": "16B",
+                "dsc": "16B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "16C",
+                "seatNo": "16C",
+                "dsc": "16C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "16D",
+                "seatNo": "16D",
+                "dsc": "16D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "16E",
+                "seatNo": "16E",
+                "dsc": "16E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "16F",
+                "seatNo": "16F",
+                "dsc": "16F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 250,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "17A",
+                "seatNo": "17A",
+                "dsc": "17A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "17B",
+                "seatNo": "17B",
+                "dsc": "17B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "17C",
+                "seatNo": "17C",
+                "dsc": "17C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "17D",
+                "seatNo": "17D",
+                "dsc": "17D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "17E",
+                "seatNo": "17E",
+                "dsc": "17E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "17F",
+                "seatNo": "17F",
+                "dsc": "17F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 250,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "18A",
+                "seatNo": "18A",
+                "dsc": "18A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "18B",
+                "seatNo": "18B",
+                "dsc": "18B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "18C",
+                "seatNo": "18C",
+                "dsc": "18C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "18D",
+                "seatNo": "18D",
+                "dsc": "18D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "18E",
+                "seatNo": "18E",
+                "dsc": "18E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "18F",
+                "seatNo": "18F",
+                "dsc": "18F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 250,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "19A",
+                "seatNo": "19A",
+                "dsc": "19A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "19B",
+                "seatNo": "19B",
+                "dsc": "19B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "19C",
+                "seatNo": "19C",
+                "dsc": "19C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "19D",
+                "seatNo": "19D",
+                "dsc": "19D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "19E",
+                "seatNo": "19E",
+                "dsc": "19E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "19F",
+                "seatNo": "19F",
+                "dsc": "19F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 250,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "20A",
+                "seatNo": "20A",
+                "dsc": "20A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "20B",
+                "seatNo": "20B",
+                "dsc": "20B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "20C",
+                "seatNo": "20C",
+                "dsc": "20C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "20D",
+                "seatNo": "20D",
+                "dsc": "20D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 250,
+                "priceBracket": 1
+            },
+            {
+                "code": "20E",
+                "seatNo": "20E",
+                "dsc": "20E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "20F",
+                "seatNo": "20F",
+                "dsc": "20F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 250,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "21A",
+                "seatNo": "21A",
+                "dsc": "21A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "21B",
+                "seatNo": "21B",
+                "dsc": "21B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "21C",
+                "seatNo": "21C",
+                "dsc": "21C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "21D",
+                "seatNo": "21D",
+                "dsc": "21D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "21E",
+                "seatNo": "21E",
+                "dsc": "21E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "21F",
+                "seatNo": "21F",
+                "dsc": "21F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "22A",
+                "seatNo": "22A",
+                "dsc": "22A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "22B",
+                "seatNo": "22B",
+                "dsc": "22B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "22C",
+                "seatNo": "22C",
+                "dsc": "22C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "22D",
+                "seatNo": "22D",
+                "dsc": "22D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "22E",
+                "seatNo": "22E",
+                "dsc": "22E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "22F",
+                "seatNo": "22F",
+                "dsc": "22F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "23A",
+                "seatNo": "23A",
+                "dsc": "23A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "23B",
+                "seatNo": "23B",
+                "dsc": "23B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "23C",
+                "seatNo": "23C",
+                "dsc": "23C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "23D",
+                "seatNo": "23D",
+                "dsc": "23D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "23E",
+                "seatNo": "23E",
+                "dsc": "23E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "23F",
+                "seatNo": "23F",
+                "dsc": "23F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "24A",
+                "seatNo": "24A",
+                "dsc": "24A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "24B",
+                "seatNo": "24B",
+                "dsc": "24B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "24C",
+                "seatNo": "24C",
+                "dsc": "24C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "24D",
+                "seatNo": "24D",
+                "dsc": "24D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "24E",
+                "seatNo": "24E",
+                "dsc": "24E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 99,
+                "priceBracket": 1
+            },
+            {
+                "code": "24F",
+                "seatNo": "24F",
+                "dsc": "24F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "25A",
+                "seatNo": "25A",
+                "dsc": "25A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "25B",
+                "seatNo": "25B",
+                "dsc": "25B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "25C",
+                "seatNo": "25C",
+                "dsc": "25C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "25D",
+                "seatNo": "25D",
+                "dsc": "25D",
+                "isBooked": true,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "25E",
+                "seatNo": "25E",
+                "dsc": "25E",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "25F",
+                "seatNo": "25F",
+                "dsc": "25F",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "26A",
+                "seatNo": "26A",
+                "dsc": "26A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "26B",
+                "seatNo": "26B",
+                "dsc": "26B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "26C",
+                "seatNo": "26C",
+                "dsc": "26C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "26D",
+                "seatNo": "26D",
+                "dsc": "26D",
+                "isBooked": true,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "26E",
+                "seatNo": "26E",
+                "dsc": "26E",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "26F",
+                "seatNo": "26F",
+                "dsc": "26F",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "27A",
+                "seatNo": "27A",
+                "dsc": "27A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "27B",
+                "seatNo": "27B",
+                "dsc": "27B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "27C",
+                "seatNo": "27C",
+                "dsc": "27C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "27D",
+                "seatNo": "27D",
+                "dsc": "27D",
+                "isBooked": true,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "27E",
+                "seatNo": "27E",
+                "dsc": "27E",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "27F",
+                "seatNo": "27F",
+                "dsc": "27F",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "28A",
+                "seatNo": "28A",
+                "dsc": "28A",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "28B",
+                "seatNo": "28B",
+                "dsc": "28B",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "28C",
+                "seatNo": "28C",
+                "dsc": "28C",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "28D",
+                "seatNo": "28D",
+                "dsc": "28D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "28E",
+                "seatNo": "28E",
+                "dsc": "28E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "28F",
+                "seatNo": "28F",
+                "dsc": "28F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "29A",
+                "seatNo": "29A",
+                "dsc": "29A",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "29B",
+                "seatNo": "29B",
+                "dsc": "29B",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "29C",
+                "seatNo": "29C",
+                "dsc": "29C",
+                "isBooked": true,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": null
+            },
+            {
+                "code": "29D",
+                "seatNo": "29D",
+                "dsc": "29D",
+                "isBooked": false,
+                "isAisle": true,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "29E",
+                "seatNo": "29E",
+                "dsc": "29E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "29F",
+                "seatNo": "29F",
+                "dsc": "29F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": true,
+                "amt": 150,
+                "priceBracket": 1
+            }
+        ]
+    },
+    {
+        "seats": [
+            {
+                "code": "30A",
+                "seatNo": "30A",
+                "dsc": "30A",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "30B",
+                "seatNo": "30B",
+                "dsc": "30B",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "30C",
+                "seatNo": "30C",
+                "dsc": "30C",
+                "isBooked": true,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "30D",
+                "seatNo": "30D",
+                "dsc": "30D",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            },
+            {
+                "code": "30E",
+                "seatNo": "30E",
+                "dsc": "30E",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 0
+            },
+            {
+                "code": "30F",
+                "seatNo": "30F",
+                "dsc": "30F",
+                "isBooked": false,
+                "isAisle": false,
+                "isWindow": false,
+                "amt": 150,
+                "priceBracket": 1
+            }
+        ]
+    }
+]

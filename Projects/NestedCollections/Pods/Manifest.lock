@@ -1,0 +1,16 @@
+PODS:
+  - StickyLayout (1.0.0)
+
+DEPENDENCIES:
+  - StickyLayout
+
+SPEC REPOS:
+  trunk:
+    - StickyLayout
+
+SPEC CHECKSUMS:
+  StickyLayout: 018ce002160edfc173325e433d98c283dcae7018
+
+PODFILE CHECKSUM: 03ea2c5b2a6c7bfc1284c1d601a30ed6d17091d5
+
+COCOAPODS: 1.11.3

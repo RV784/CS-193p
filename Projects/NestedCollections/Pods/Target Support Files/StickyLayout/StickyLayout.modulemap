@@ -1,0 +1,6 @@
+framework module StickyLayout {
+  umbrella header "StickyLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

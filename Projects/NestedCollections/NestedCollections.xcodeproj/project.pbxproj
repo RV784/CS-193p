@@ -1,0 +1,449 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		71CD823D99BEC22C98CFA6FC /* Pods_NestedCollections.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A8700371FDD24044D1D3238D /* Pods_NestedCollections.framework */; };
+		AB268C43291A1F3A0030F1FE /* myCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB268C41291A1F3A0030F1FE /* myCollectionViewCell.swift */; };
+		AB268C44291A1F3A0030F1FE /* myCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB268C42291A1F3A0030F1FE /* myCollectionViewCell.xib */; };
+		AB268C46291A207E0030F1FE /* StickyGridCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB268C45291A207E0030F1FE /* StickyGridCollectionViewLayout.swift */; };
+		AB3191E52919119700F3FEEB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3191E42919119700F3FEEB /* AppDelegate.swift */; };
+		AB3191E72919119700F3FEEB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3191E62919119700F3FEEB /* SceneDelegate.swift */; };
+		AB3191E92919119700F3FEEB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3191E82919119700F3FEEB /* ViewController.swift */; };
+		AB3191EC2919119700F3FEEB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB3191EA2919119700F3FEEB /* Main.storyboard */; };
+		AB3191EE2919119900F3FEEB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB3191ED2919119900F3FEEB /* Assets.xcassets */; };
+		AB3191F12919119900F3FEEB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB3191EF2919119900F3FEEB /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0F976771A694246880C03931 /* Pods-NestedCollections.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NestedCollections.debug.xcconfig"; path = "Target Support Files/Pods-NestedCollections/Pods-NestedCollections.debug.xcconfig"; sourceTree = "<group>"; };
+		491E2C54A43042F08E4184ED /* Pods-NestedCollections.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NestedCollections.release.xcconfig"; path = "Target Support Files/Pods-NestedCollections/Pods-NestedCollections.release.xcconfig"; sourceTree = "<group>"; };
+		A8700371FDD24044D1D3238D /* Pods_NestedCollections.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NestedCollections.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB268C41291A1F3A0030F1FE /* myCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myCollectionViewCell.swift; sourceTree = "<group>"; };
+		AB268C42291A1F3A0030F1FE /* myCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = myCollectionViewCell.xib; sourceTree = "<group>"; };
+		AB268C45291A207E0030F1FE /* StickyGridCollectionViewLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StickyGridCollectionViewLayout.swift; sourceTree = "<group>"; };
+		AB3191E12919119700F3FEEB /* NestedCollections.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NestedCollections.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AB3191E42919119700F3FEEB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AB3191E62919119700F3FEEB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		AB3191E82919119700F3FEEB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AB3191EB2919119700F3FEEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AB3191ED2919119900F3FEEB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AB3191F02919119900F3FEEB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AB3191F22919119900F3FEEB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AB3191DE2919119700F3FEEB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				71CD823D99BEC22C98CFA6FC /* Pods_NestedCollections.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		50F81061DC1DC581E3F105D8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A8700371FDD24044D1D3238D /* Pods_NestedCollections.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6A60290CDA65CF92D2364901 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0F976771A694246880C03931 /* Pods-NestedCollections.debug.xcconfig */,
+				491E2C54A43042F08E4184ED /* Pods-NestedCollections.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		AB3191D82919119700F3FEEB = {
+			isa = PBXGroup;
+			children = (
+				AB3191E32919119700F3FEEB /* NestedCollections */,
+				AB3191E22919119700F3FEEB /* Products */,
+				6A60290CDA65CF92D2364901 /* Pods */,
+				50F81061DC1DC581E3F105D8 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		AB3191E22919119700F3FEEB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AB3191E12919119700F3FEEB /* NestedCollections.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AB3191E32919119700F3FEEB /* NestedCollections */ = {
+			isa = PBXGroup;
+			children = (
+				AB3191E42919119700F3FEEB /* AppDelegate.swift */,
+				AB3191E62919119700F3FEEB /* SceneDelegate.swift */,
+				AB3191E82919119700F3FEEB /* ViewController.swift */,
+				AB3191EA2919119700F3FEEB /* Main.storyboard */,
+				AB268C45291A207E0030F1FE /* StickyGridCollectionViewLayout.swift */,
+				AB3191ED2919119900F3FEEB /* Assets.xcassets */,
+				AB3191EF2919119900F3FEEB /* LaunchScreen.storyboard */,
+				AB3191F22919119900F3FEEB /* Info.plist */,
+				AB268C41291A1F3A0030F1FE /* myCollectionViewCell.swift */,
+				AB268C42291A1F3A0030F1FE /* myCollectionViewCell.xib */,
+			);
+			path = NestedCollections;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AB3191E02919119700F3FEEB /* NestedCollections */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AB3191F52919119900F3FEEB /* Build configuration list for PBXNativeTarget "NestedCollections" */;
+			buildPhases = (
+				CB12B33B7892C7AE74D752C4 /* [CP] Check Pods Manifest.lock */,
+				AB3191DD2919119700F3FEEB /* Sources */,
+				AB3191DE2919119700F3FEEB /* Frameworks */,
+				AB3191DF2919119700F3FEEB /* Resources */,
+				A3D4A366A6102B28EC6D7832 /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NestedCollections;
+			productName = NestedCollections;
+			productReference = AB3191E12919119700F3FEEB /* NestedCollections.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AB3191D92919119700F3FEEB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					AB3191E02919119700F3FEEB = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+				};
+			};
+			buildConfigurationList = AB3191DC2919119700F3FEEB /* Build configuration list for PBXProject "NestedCollections" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AB3191D82919119700F3FEEB;
+			productRefGroup = AB3191E22919119700F3FEEB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AB3191E02919119700F3FEEB /* NestedCollections */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AB3191DF2919119700F3FEEB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB3191F12919119900F3FEEB /* LaunchScreen.storyboard in Resources */,
+				AB3191EE2919119900F3FEEB /* Assets.xcassets in Resources */,
+				AB268C44291A1F3A0030F1FE /* myCollectionViewCell.xib in Resources */,
+				AB3191EC2919119700F3FEEB /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A3D4A366A6102B28EC6D7832 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NestedCollections/Pods-NestedCollections-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-NestedCollections/Pods-NestedCollections-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NestedCollections/Pods-NestedCollections-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CB12B33B7892C7AE74D752C4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NestedCollections-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AB3191DD2919119700F3FEEB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AB3191E92919119700F3FEEB /* ViewController.swift in Sources */,
+				AB268C46291A207E0030F1FE /* StickyGridCollectionViewLayout.swift in Sources */,
+				AB3191E52919119700F3FEEB /* AppDelegate.swift in Sources */,
+				AB268C43291A1F3A0030F1FE /* myCollectionViewCell.swift in Sources */,
+				AB3191E72919119700F3FEEB /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		AB3191EA2919119700F3FEEB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AB3191EB2919119700F3FEEB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AB3191EF2919119900F3FEEB /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AB3191F02919119900F3FEEB /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AB3191F32919119900F3FEEB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AB3191F42919119900F3FEEB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AB3191F62919119900F3FEEB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0F976771A694246880C03931 /* Pods-NestedCollections.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8Q85SCK76S;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NestedCollections/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.NestedCollections;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		AB3191F72919119900F3FEEB /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 491E2C54A43042F08E4184ED /* Pods-NestedCollections.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8Q85SCK76S;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = NestedCollections/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.NestedCollections;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AB3191DC2919119700F3FEEB /* Build configuration list for PBXProject "NestedCollections" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB3191F32919119900F3FEEB /* Debug */,
+				AB3191F42919119900F3FEEB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AB3191F52919119900F3FEEB /* Build configuration list for PBXNativeTarget "NestedCollections" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AB3191F62919119900F3FEEB /* Debug */,
+				AB3191F72919119900F3FEEB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AB3191D92919119700F3FEEB /* Project object */;
+}
